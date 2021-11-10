@@ -1,41 +1,26 @@
 ## 8 Golden Rules of Interface Design
 
-You can use the [editor on GitHub](https://github.com/Javiergs02/WebSlide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 1. Strive for Consistency
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Strive for consistency by utilizing familiar icons, colors, menu hierarchy, call-to-actions, and user flows when designing similar situations and sequence of actions.
 
 ### 2.Seek universal usability
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Javiergs02/WebSlide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Recognize the needs of diverse users and design for plasticity, facilitating transformation of content. Novice to expert differences, age ranges, disabilities, international variations, and technological diversity each enrich the spectrum of requirements that guides design
 
 ### 3. Offer informative feedback
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You need to keep your users informed of what is happening at every stage of their process. This feedback needs to be meaningful, relevant, clear, and fit the context.
+
 ### 4. Design dialogues to yield closure
+Sequences of actions need to have a beginning, middle and end. Once a task is completed, give some peace of mind to your user by providing them informative feedback and well-defined options for the next step if that’s the case. Don’t keep them wondering!
+
 ### 5. Prevent errors
+A good interface should be designed to avoid errors as much as possible. But when errors do happen, your system needs to make it easy for the user to understand the issue and know how to solve it. Simple ways to handle errors include displaying clear error notifications along with descriptive hints to solve the problem.
+
 ### 6. Permit easy reversal
+It’s an instant relief to find that “undo” option after a mistake is made. Your users will feel less anxious and more likely to explore options if they know there’s an easy way to reverse any accidents.
+
 ### 7. Keep users in control
+It’s important to give control and freedom to your users so they’re able to feel they’re in charge of the system, not the other way round. Avoid surprises, interruptions, or anything that hasn’t be prompted by the users. Users should be the initiators of the actions rather than the responders.
+
 ### 8. Reduce short-term memory load
+Our attention span is limited and anything we can do to make our users’ job easier, the better. It’s simpler for us to recognize information rather than recall it. Here, we can refer to one of Nielsen’s principles describing “recognition over recall”. If we keep our interfaces simple and consistent, obeying to patterns, standards and conventions, we are already contributing to better recognition and ease of use.
